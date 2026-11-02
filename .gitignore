@@ -1,0 +1,24 @@
+# Dependencias
+node_modules/
+api-portafolio/node_modules/
+
+# Variables de entorno (NUNCA subir al repositorio)
+.env
+api-portafolio/.env
+
+# Prisma generado
+api-portafolio/generated/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
